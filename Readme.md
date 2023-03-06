@@ -8,8 +8,8 @@ Base codes of online measurement system.
 ### Online Measurement System Schema
 ![Online Measurement System Schema](/images_of_system/overview_of_system.png "Online Measurement System Schema")
 
-### CNC
-![CNC](/images_of_system/overview_of_system.png "CNC")
+### GRBL
+![GRBL](/images_of_system/grbl.png "GRBL")
 
 ### Sensor and CNC
 ![Sensor and CNC](/images_of_system/cnc.png "Sensor and CNC")
