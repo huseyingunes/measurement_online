@@ -1,7 +1,7 @@
 # Online Measurement System
 
 <!-- ABOUT THE PROJECT -->
-## Project Abstract
+## Abstract
 
 The Internet of Things (IoT) is a technology which encompasses devices, software and access services that enable us to
 control, track and analyze physical variables in our environment. IoT application areas include activities such as vehicle,
@@ -24,7 +24,9 @@ operation of the developed measurement system are described in the paper.
 
 ## Project Codes
 
-Base codes of online measurement system.
+Shared codes are base codes of online measurement system.
+
+## Images
 
 ### Online Measurement System Schema
 ![Online Measurement System Schema](/images_of_system/overview_of_system.png "Online Measurement System Schema")
